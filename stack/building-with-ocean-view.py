@@ -1,4 +1,4 @@
-#
+#https://leetcode.com/problems/buildings-with-an-ocean-view/description/
 
 # from right, using stack
 
